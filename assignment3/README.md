@@ -1,3 +1,5 @@
+# IU2241051249
+
 # Lottery Smart Contract
 
 This project implements a simple lottery system using a Solidity smart contract. Participants can enter the lottery by sending Ether, and a random winner is selected by the contract manager, who then transfers the contract's balance to the winner.
